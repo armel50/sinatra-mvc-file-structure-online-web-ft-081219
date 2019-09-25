@@ -1,3 +1,3 @@
-require_relative 'sinatra'
+require 'sinatra'
 
 run ApplicationController
